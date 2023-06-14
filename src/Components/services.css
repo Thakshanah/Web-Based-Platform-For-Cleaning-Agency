@@ -1,0 +1,38 @@
+.app-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .app-heading {
+    color: navy;
+  }
+  
+  .services {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .service-container {
+    background-color: navy;
+    color: white;
+    padding: 20px;
+    margin: 10px;
+    width: 200px;
+    text-align: center;
+  }
+  
+  .service-container h2 {
+    font-size: 18px;
+  }
+  
+  .service-container button {
+    background-color: white;
+    color: navy;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  
